@@ -1,0 +1,27 @@
+{
+  "Version": 3,
+  "ServerName": "BlinkBlaid",
+  "MOTD": "",
+  "Password": "",
+  "MaxPlayers": 100,
+  "MaxViewRadius": 32,
+  "Defaults": {
+    "World": "default",
+    "GameMode": "Adventure"
+  },
+  "ConnectionTimeouts": {
+    "JoinTimeouts": {}
+  },
+  "RateLimit": {},
+  "Modules": {
+    "PathPlugin": {
+      "Modules": {}
+    }
+  },
+  "LogLevels": {},
+  "Mods": {},
+  "DisplayTmpTagsInStrings": false,
+  "PlayerStorage": {
+    "Type": "Hytale"
+  }
+}
